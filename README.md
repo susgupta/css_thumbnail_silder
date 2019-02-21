@@ -11,4 +11,8 @@ Sushil G CSS Thumbnail Slider With JQuery is an example showcasing **CSS image s
 
 ## Real-Time Viewing
 
-Coming soon.
+The application was publised using [GitHub Pages](https://pages.github.com/). The public 'dist' folder is root of hosted application
+
+Here is link to view the application:
+
+[Sushil G CSS Thumbnail Slider With JQuery](https://susgupta.github.io/css_thumbnail_silder/)
